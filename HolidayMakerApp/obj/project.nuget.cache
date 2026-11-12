@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7v/5+JV9C64=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emilc\\Skola\\HolidayMaker\\HolidayMakerApp\\HolidayMakerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emilc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.15\\microsoft.extensions.dependencyinjection.abstractions.10.0.15.nupkg.sha512",
+    "C:\\Users\\emilc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.15\\microsoft.extensions.logging.abstractions.10.0.15.nupkg.sha512",
+    "C:\\Users\\emilc\\.nuget\\packages\\mysqlconnector\\3.0.0\\mysqlconnector.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
