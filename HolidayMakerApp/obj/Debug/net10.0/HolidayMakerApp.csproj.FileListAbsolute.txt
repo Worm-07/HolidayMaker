@@ -17,3 +17,4 @@ C:\Users\emilc\Skola\HolidayMaker\HolidayMakerApp\obj\Debug\net10.0\refint\Holid
 C:\Users\emilc\Skola\HolidayMaker\HolidayMakerApp\obj\Debug\net10.0\HolidayMakerApp.pdb
 C:\Users\emilc\Skola\HolidayMaker\HolidayMakerApp\obj\Debug\net10.0\HolidayMakerApp.genruntimeconfig.cache
 C:\Users\emilc\Skola\HolidayMaker\HolidayMakerApp\obj\Debug\net10.0\ref\HolidayMakerApp.dll
+C:\Users\emilc\Skola\HolidayMaker\HolidayMakerApp\obj\Debug\net10.0\HolidayMakerApp.sourcelink.json
